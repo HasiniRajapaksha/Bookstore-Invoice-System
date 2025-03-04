@@ -36,6 +36,8 @@ This repository contains a C program designed to simulate a bookstore invoice sy
 ### **Example Output:**
 
 ![Image](https://github.com/user-attachments/assets/96eaf012-dec7-4f47-8aca-3dcaa2a65e8c)
+![Image](https://github.com/user-attachments/assets/6e56a507-71fd-4dd1-941f-a56b691b933a)
+
 
 ## License
 This project is open-source and free to use. Feel free to modify or contribute to the code.
