@@ -29,68 +29,13 @@ This repository contains a C program designed to simulate a bookstore invoice sy
 ## Example Input and Output
 
 ### **Example Input:**
-```
-Enter customer name: 
-John
-Enter number of entries for the invoice: 
-2
-Enter code of the book: 
-B001
-Enter quantity of B001 books: 
-5
-Enter unit price of the book: 
-200
-Enter code of the book: 
-B002
-Enter quantity of B002 books: 
-3
-Enter unit price of the book: 
-300
-```
-![Example Input Screenshot](./images/example_input.png)
+
 ![Image](https://github.com/user-attachments/assets/73b6f95b-d67a-4cd8-b92c-1e75ba5af75e)
 
 
 ### **Example Output:**
 
-```
-Enter customer name: 
-John
-Enter number of entries for the invoice: 
-2
-Enter code of the book: 
-B001
-Enter quantity of B001 books: 
-5
-Enter unit price of the book: 
-200
-Enter code of the book: 
-B002
-Enter quantity of B002 books: 
-3
-Enter unit price of the book: 
-300
-
-
-
-						"Maddy's Print Shop - Book to change the world"
-							 Invoice
-Customer Name: John
------------------------------------------------------------------------------------------------------
-Code		 Qty		 Unit Price		 Line Total
------------------------------------------------------------------------------------------------------
-B001		 5		 200.00			 1000.00
-B002		 3		 300.00			 900.00
------------------------------------------------------------------------------------------------------
-			 Sub Total		1900.00
-			 Discount		95.00
------------------------------------------------------------------------------------------------------
-			 Total			1805.00
-
-
------------------------------------------------------------------------------------------------------
-			 Thank You for Your Business!
-```
+![Image](https://github.com/user-attachments/assets/96eaf012-dec7-4f47-8aca-3dcaa2a65e8c)
 
 ## License
 This project is open-source and free to use. Feel free to modify or contribute to the code.
