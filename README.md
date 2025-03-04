@@ -47,6 +47,9 @@ Enter quantity of B002 books:
 Enter unit price of the book: 
 300
 ```
+![Example Input Screenshot](./images/example_input.png)
+![Image](https://github.com/user-attachments/assets/73b6f95b-d67a-4cd8-b92c-1e75ba5af75e)
+
 
 ### **Example Output:**
 
